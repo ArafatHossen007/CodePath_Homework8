@@ -28,7 +28,7 @@ Time spent: **7** hours spent in total
   - [ ] GIF Walkthrough: <img src="user.gif" width="800">
   - [ ] Steps to recreate: 
     Type in "admin" as username with incorrect password shows password is incorrect.
-    Type in "random" as username with incorrect password shows invalid username.
+    Type in "hacker" as username with incorrect password shows invalid username.
 
   - [ ] Affected source code:Login function
     - [Link 1](https://core.trac.wordpress.org/browser/tags/4.2/src/wp-login.php)
